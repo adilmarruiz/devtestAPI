@@ -1,0 +1,9 @@
+#Encendemos el llamado "motor de escritura" (RewriteEngine)
+
+RewriteEngine On
+
+#Crearemos una regla para redireccionar una URL a otra
+#con el ^ indicamos que es justo despues del dominio, si no lo ponemos
+#buscará en la URL lo que le indiquemos como "index.php"
+
+RewriteRule ^([a-zA-Z_-]*)$ index.php
