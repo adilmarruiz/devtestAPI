@@ -11,12 +11,13 @@
 Se recomienda realizar con XAMPP (Utilizando versión v3.3.0)
 
 ### 1. Crear carpeta en `HTDOCS`
-    - Ingresar en la ruta \*xampp/htdocs/\*
-    - Nombrar como \*devtestAPI\*
-    - ![Imagen de localización] (img/1.png)
+- Ingresar en la ruta \*xampp/htdocs/\*
+- Nombrar como \*devtestAPI\*
+![Imagen de Lozaliación](img/1.png)
 
 ### 2. Clonar repositorio en carpeta creada in `git bash`
     - git clone `https://github.com/adilmarruiz/devtestAPI`
 
 ### 3. Puesta en marcha del servidor
 **Solo será necesario iniciar `APACHE`**
+![Imagen de inicialización](img/2.png)
